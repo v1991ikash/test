@@ -4,5 +4,6 @@ class Hello{
   System.out.println("Hi World!!");
   System.out.println("Hi Maldivs!!");
   System.out.println("Hi London!!");
+  System.out.println("Hi India!!");
 }
 }
